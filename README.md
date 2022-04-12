@@ -6,3 +6,6 @@ It's a search engine made with MySQL with which we can search using voice
 #### First download the xampp and set it up on your desktop
 #### Create database in search_db and import search_table in that database
 #### Then either you can use xampp server or php server of Visual Studio code to execute the the php file
+
+## Demo
+#### Deployed website https://search-engine4.herokuapp.com/
